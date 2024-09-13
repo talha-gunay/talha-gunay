@@ -45,3 +45,7 @@
 </div>
 
 ###
+
+## Portfolio
+
+You can view my full portfolio [here](Talha_Yasin_Gunay_Portfolio.pdf).
