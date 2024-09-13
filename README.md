@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">I am Graphic Designer</h3>
+<h1 align="center">I am Graphic Designer</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ## Portfolio
 
-You can view my full <h2>PORTFOLİO</h2> [here](Talha_Yasin_Gunay_Portfolio.pdf).
+You can view my full <strong>PORTFOLİO</strong> [<strong>here</strong>](Talha_Yasin_Gunay_Portfolio.pdf).
 
 ###
 
