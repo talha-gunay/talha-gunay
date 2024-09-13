@@ -30,7 +30,7 @@ You can view my full <strong>PORTFOLİO</strong> [<strong>here</strong>]((<br cl
 
 ## Portfolio
 
-You can view my full <strong>PORTFOLİO</strong> [<strong>here</strong>]((.//Talha_Yasin_Gunay_Portfolio.pdf)).
+You can view my full <strong>PORTFOLİO</strong> [<strong>here</strong>](.//Talha_Yasin_Gunay_Portfolio.pdf).
 
 ###
 
