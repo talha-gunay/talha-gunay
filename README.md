@@ -1,4 +1,4 @@
-<br clear="both">
+
 
 <h1 align="center">I am Graphic Designer</h3>
 
@@ -12,25 +12,15 @@
 
 ###
 
-## Portfolio
-
-You can view my full <strong>PORTFOLİO</strong> [<strong>here</strong>]((<br clear="both">
-
-<h1 align="center">I am Graphic Designer</h3>
-
-###
-
-<br clear="both">
-
+## 
 <div align="center">
-  <img height="200" src="talha.jpg"  />
+<h1><strong>Portfolio</strong></h3>
 </div>
 
-###
+<div align="center">
+ You can view my full <strong>PORTFOLİO</strong> [<strong>here</strong>](./Talha_Yasin_Gunay_Portfolio.pdf).
+</div>
 
-## Portfolio
-
-You can view my full <strong>PORTFOLİO</strong> [<strong>here</strong>](.//Talha_Yasin_Gunay_Portfolio.pdf).
 
 ###
 
@@ -64,7 +54,7 @@ You can view my full <strong>PORTFOLİO</strong> [<strong>here</strong>](.//Talh
 
 ###
 
-)).
+
 
 ###
 
